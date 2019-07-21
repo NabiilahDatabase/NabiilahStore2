@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil3 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="4314.71" y1="21020.9" x2="16685.3" y2="8679.09">
+   <stop offset="0" style="stop-opacity:1; stop-color:#573A91"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#78309F"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#78309F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9926AD"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="10553.8" y1="21838" x2="13400.2" y2="18990.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#573A91"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#78309F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9926AD"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="9503.1" y1="17999.8" x2="12352.5" y2="15158.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#573A91"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#78309F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9926AD"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="7025.67" y1="20641.1" x2="9256.02" y2="18406.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#573A91"/>
+   <stop offset="0.611765" style="stop-opacity:1; stop-color:#78309F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9926AD"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_132007104">
+   <g id="_658184416">
+    <path class="fil0" d="M17770 23505l0 -14195c0,-190 -154,-346 -346,-346l-2770 0 0 -2077c-1,-1337 -1085,-2421 -2423,-2423l-3462 0c-1338,2 -2421,1086 -2423,2423l0 2077 -2770 0c-190,0 -346,156 -346,346l0 14195c1,956 775,1730 1731,1731l11078 0c956,-1 1730,-775 1731,-1731l0 0zm-5539 -14541l-3462 0 0 -1384c0,-382 310,-693 693,-693l2077 0c382,0 692,311 692,693l0 1384zm693 1731l1038 0 0 1040 -1038 0 0 -1040zm-4155 -5538l3462 0c956,1 1730,775 1731,1730l0 3117 -1038 0 0 -2424c0,-765 -620,-1385 -1385,-1385l-2077 0c-765,0 -1386,620 -1386,1385l0 2424 -1038 0 0 -3117c1,-955 776,-1729 1731,-1730zm-1731 5538l1038 0 0 1040 -1038 0 0 -1040zm-3115 12810l0 -13848 2423 0 0 2424c0,191 155,346 346,346l1731 0c192,0 346,-155 346,-346l0 -2424 3462 0 0 2424c0,191 156,346 346,346l1731 0c191,0 346,-155 346,-346l0 -2424 2423 0 0 13848c0,574 -464,1038 -1038,1038l-11078 0c-574,0 -1038,-464 -1038,-1038zm0 0z"/>
+    <path class="fil1" d="M10200 15711c97,-164 309,-220 474,-125 52,31 96,74 126,125l1105 1908 -712 0 0 693 1384 0c159,0 297,-109 336,-263l346 -1384 -671 -168 -161 644 -1027 -1776c-288,-497 -922,-666 -1419,-378 -157,91 -288,222 -379,378l-1006 1736 599 346 1005 -1736zm2107 1908l-3 0 3 -1 0 1zm0 0z"/>
+    <path class="fil2" d="M13223 18516l-600 346 785 1354c96,166 39,377 -127,473 -53,31 -111,47 -172,47l-2308 0 333 -501 -576 -385 -692 1040c-77,116 -77,268 0,384l692 1038 576 -384 -333 -500 2307 0c573,0 1038,-465 1038,-1038 0,-183 -47,-363 -139,-520l-784 -1354zm0 0z"/>
+    <path class="fil3" d="M8434 18762l371 742 620 -309 -692 -1385c-59,-117 -179,-191 -310,-191l-1385 0 0 693 858 0 -901 1558c-286,497 -116,1131 381,1419 158,91 337,139 520,139l1219 0 0 -692 -1221 0c-193,-1 -347,-156 -347,-348 0,-59 16,-119 46,-172l841 -1454zm0 0z"/>
+   </g>
+  </g>
+ </g>
+</svg>

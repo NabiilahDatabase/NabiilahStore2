@@ -1,0 +1,52 @@
+ion-slide {
+    display: block;
+}
+
+ion-slides {
+    --bullet-background: #cccccc;
+    --bullet-background-active: #54388E;
+}
+
+.slide-img-padding {
+    padding: 40px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+img {
+    max-height: 400px;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+p {
+    font-weight: lighter;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bawah {
+    margin-top: -10px;
+}
+
+.slider {
+    --bullet-background-active: #54388E;
+}
+
+.btn-tertiary {
+    height: 40px;
+    border-radius: 5em;
+    color: #fff;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    background: linear-gradient(to right, #54388E, #9C27B0);
+}
+
+@media screen and (max-height: 775px) {
+    img {
+        width: 70%;
+    }
+}
